@@ -31,9 +31,9 @@ Each model is implemented in a separate Jupyter notebook within this repository.
 
 Made by :
 
-Cheddadi Mohammed-Amine
-Chahboun Mohammed Wafiq
-Berber Rhassan
-Amimi Hamza
-Stiki Marwane
-Benomar Hamza
+- Cheddadi Mohammed-Amine
+- Chahboun Mohammed Wafiq
+- Berber Rhassan
+- Amimi Hamza
+- Stiki Marwane
+- Benomar Hamza
