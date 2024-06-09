@@ -28,3 +28,12 @@ Each model is implemented in a separate Jupyter notebook within this repository.
 - `test-notebook-nlp NaiveBayes.ipynb` - Naive Bayes model implementation and evaluation.
 - `test-notebook-nlp RandFor.ipynb` - Random Forest model implementation and evaluation.
 - `test-notebook-nlp SVM.ipynb` - SVM model implementation and evaluation.
+
+Made by :
+
+Cheddadi Mohammed-Amine
+Chahboun Mohammed Wafiq
+Berber Rhassan
+Amimi Hamza
+Stiki Marwane
+Benomar Hamza
